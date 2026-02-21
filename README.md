@@ -97,7 +97,7 @@ Kali Linux | Nmap | Nikto | Hydra | SQLMap | Apache | MySQL | DVWA | Cowrie | Mo
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/paul-umeh) | [Main Portfolio](https://github.com/Paul-D3v/cybersecurity-portfolio)
+[LinkedIn](https://www.linkedin.com/in/paul-umeh) | [Metasploitable Pentest Report](https://github.com/Paul-D3v/cybersecurity-portfolio)
 
 ---
 
