@@ -16,7 +16,7 @@ This project documents a full cybersecurity simulation conducted as part of the 
 
 ## Network Architecture
 
-![Network Diagram](Network_diagram.png).
+![Network Diagram](Network_diagram.png)
 
 | System | IP Address | Role |
 |--------|-----------|------|
